@@ -1,0 +1,28 @@
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#guardar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#ordenar{
+    display:none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    margin:10px;
+}
+
+h4{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
